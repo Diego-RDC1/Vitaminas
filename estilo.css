@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+#vitamina{
+    margin-left: 64px;
+    margin-top: 32px;
+}
+.imagem{
+    width: 150px;
+}
+#head{
+    background-color:#21022d ;
+    text-align: center;
+    color: white;
+}
+#cardapio{
+    margin-top: 16px;
+    margin-left: 16px;
+}
+#main{
+    background-color: #e2d8e7;
+    margin: 24px;
+}
+#lactose{
+    margin-top: 64px;
+    text-align: center;
+}
+#lactoseimg{
+    margin-top: 32px;
+    width: 600px;
+    height: 300px;
+}
+#rodape{
+    padding-block: 8px;
+    text-align: center;
+    background-color:#21022d;
+    color: white;
+}
